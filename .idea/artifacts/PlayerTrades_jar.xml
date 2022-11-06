@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="PlayerTrades:jar">
-    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
-    <root id="archive" name="PlayerTrades.jar">
-      <element id="module-output" name="PlayerTrades" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../Dependencies/spigot-api-1.19.2-R0.1-20221028.093712-37.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>

@@ -1,0 +1,5 @@
+name: PlayerTrades
+version: 1.0.0
+author: Ramen5914
+main: com.ramen5914.playertrades.PlayerTrades
+api-version: 1.14

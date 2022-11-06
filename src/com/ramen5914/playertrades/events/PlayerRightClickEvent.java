@@ -12,6 +12,6 @@ public class PlayerRightClickEvent implements Listener {
         Player player = event.getPlayer();
         String clickedEntity = event.getRightClicked().getName();
 
-        player.sendMessage(ChatColor.AQUA + "You clicked: " + clickedEntity.toString());
+        player.sendMessage(ChatColor.AQUA + "You clicked: " + clickedEntity);
     }
 }
